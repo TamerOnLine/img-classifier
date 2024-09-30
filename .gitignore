@@ -1,0 +1,46 @@
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+env/
+venv/
+.venv/
+
+# Ignore hidden system files (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore model files and large binary data
+models/
+*.h5
+*.pkl
+*.ckpt
+
+# Ignore dataset files
+data/
+*.csv
+*.json
+*.zip
+
+# Ignore environment and dependency files
+*.env
+.env.*
+
+# Ignore VS Code specific settings
+.vscode/
+
+# Ignore configuration files for the operating system
+.idea/
+*.suo
+*.plist
+*.proj
