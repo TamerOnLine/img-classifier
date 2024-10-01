@@ -1,6 +1,7 @@
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+.png/
 
 # Ignore Python cache and compiled files
 __pycache__/
@@ -44,3 +45,6 @@ data/
 *.suo
 *.plist
 *.proj
+
+*.pptx
+*.mp4
