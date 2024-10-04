@@ -1,3 +1,11 @@
+---
+name: "✨ Pull Request"
+about: "Describe the purpose of this Pull Request"
+title: "[PULL REQUEST]"
+labels: enhancement
+assignees: ''
+---
+
 ## Pull Request Description
 
 ### What does this implement/fix?
