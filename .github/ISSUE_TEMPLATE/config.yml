@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "Bug Report"
+  - name: "🐛 Bug Report"
     url: https://github.com/TamerOnLine/img-classifier/issues/new?template=bug_report.md
     about: "Use this template to report a bug."
-  - name: "Feature Request"
+  - name: "🚀 Feature Request"
     url: https://github.com/TamerOnLine/img-classifier/issues/new?template=feature_request.md
     about: "Use this template to request a new feature or enhancement."
